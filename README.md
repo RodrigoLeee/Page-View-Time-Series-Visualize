@@ -1,2 +1,1 @@
-# Page-View-Time-Series-Visualize
- Data analysis and visualization of page views by time 
+This is a resolution for the Data Analysis With Python Curriculum, from freecodecamp.
